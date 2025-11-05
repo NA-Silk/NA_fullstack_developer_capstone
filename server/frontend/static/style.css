@@ -117,10 +117,17 @@ img{
 
 .img_icon {
   align-self: center;
-    width:40px;
-    background-color:#0C9;
-    color:#FFF;
-    border-radius:50px;
-    text-align:center;
-    box-shadow: 2px 2px 3px #999;  
+  width:40px;
+  background-color:#0C9;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  box-shadow: 2px 2px 3px #999;  
+}
+
+.img_large {
+  align-self: center;
+  margin:25px;
+  text-align:center;
+  box-shadow: 5px 5px 5px #999;  
 }
